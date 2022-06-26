@@ -17,19 +17,19 @@ ADDONTITLE = '[COLOR cyan][B]TV[/COLOR]ISIA[/B] Wizard'
 BUILDERNAME = 'TVISIA'
 EXCLUDES = [ADDON_ID, 'repository.tvisia']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'http://'
+BUILDFILE = 'https://visia.gq/txt/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
 # Text File with apk info in it.  Leave as 'http://' to ignore
-APKFILE = 'http://'
+APKFILE = 'https://visia.gq/txt/apks.txt'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
-YOUTUBETITLE = ''
-YOUTUBEFILE = 'http://'
+YOUTUBETITLE = 'TVISIA'
+YOUTUBEFILE = 'https://visia.gq/txt/youtube.txt'
 # Text File for addon installer.  Leave as 'http://' to ignore
-ADDONFILE = 'http://'
+ADDONFILE = 'https://visia.gq/txt/themes.txt'
 # Text File for advanced settings.  Leave as 'http://' to ignore
-ADVANCEDFILE = 'http://'
+ADVANCEDFILE = 'https://visia.gq/txt/advanced.json'
 #########################################################
 
 #########################################################
@@ -56,14 +56,14 @@ ICONSETTINGS = os.path.join(ART, 'settings.png')
 # Hide the section separators 'Yes' or 'No'
 HIDESPACERS = 'No'
 # Character used in separator
-SPACER = '='
+SPACER = '_'
 
 # You can edit these however you want, just make sure that you have a %s in each of the
 # THEME's so it grabs the text from the menu item
 COLOR1 = 'cyan'
 COLOR2 = 'white'
 # Primary menu items   / {0} is the menu item and is required
-THEME1 = u'[COLOR {color1}][I]([COLOR {color1}][B]TV[/B][/COLOR][COLOR {color2}]ISIA[COLOR {color1}])[/I][/COLOR] Wizard [COLOR {color2}]{{}}[/COLOR]'.format(color1=COLOR1, color2=COLOR2)
+THEME1 = u'[COLOR {color1}][I]([COLOR {color1}][B]TV[/B][/COLOR]ISIA[COLOR {color2}][COLOR {color1}])[/I][/COLOR] Wizard [COLOR {color2}]{{}}[/COLOR]'.format(color1=COLOR1, color2=COLOR2)
 # Build Names          / {0} is the menu item and is required
 THEME2 = u'[COLOR {color1}]{{}}[/COLOR]'.format(color1=COLOR1)
 # Alternate items      / {0} is the menu item and is required
@@ -109,7 +109,7 @@ REPOZIPURL = 'https://raw.githubusercontent.com/tvisia/repository.tvisia/master/
 # Enable Notification screen Yes or No
 ENABLE = 'Yes'
 # Url to notification file
-NOTIFICATION = 'http://'
+NOTIFICATION = 'https://visia.gq/txt/notify.txt'
 # Use either 'Text' or 'Image'
 HEADERTYPE = 'Text'
 # Font size of header
