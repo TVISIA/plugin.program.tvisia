@@ -2,5 +2,4 @@ name="Aeon-Nox-SiLVO Theme"
 url="https://github.com/mikesilvo164/Aeon-Nox-SiLVO/archive/refs/heads/master.zip"
 icon="https://github.com/mikesilvo164/Aeon-Nox-SiLVO/blob/master/resources/icon.jpg"
 fanart="https://github.com/mikesilvo164/Aeon-Nox-SiLVO/blob/master/resources/fanart.jpg"
-description="All-In-One.
-"
+description="All-In-One."
