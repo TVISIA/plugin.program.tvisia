@@ -116,7 +116,7 @@ HEADERTYPE = 'Text'
 FONTHEADER = 'Font14'
 HEADERMESSAGE = '[COLOR cyan][B]TV[/COLOR]ISIA[/B] Wizard'
 # url to image if using Image 424x180
-HEADERIMAGE = 'http://'
+HEADERIMAGE = 'https://visia.gq/tvisiaimg/header.txt'
 # Font for Notification Window
 FONTSETTINGS = 'Font13'
 # Background for Notification Window
