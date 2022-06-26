@@ -1,5 +1,5 @@
 <?xml version="0.0.1" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.tvisia" name="[COLOR cyan]TV[/COLOR]ISIA Wizard" version="0.0.1" provider-name="tvisia">
+<addon id="plugin.program.tvisia" name="[COLOR cyan][B]TV[/COLOR]ISIA[/B] Wizard" version="0.0.1" provider-name="tvisia">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />
@@ -15,8 +15,8 @@
     <extension point="xbmc.service" library="startup.py" start="startup" />
     
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">[COLOR cyan]TV[/COLOR]ISIA Wizard</summary>
-        <description lang="en">[COLOR cyan]TV[/COLOR]ISIA Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
+        <summary lang="en">[COLOR cyan][B]TV[/COLOR]ISIA[/B] Wizard</summary>
+        <description lang="en">[COLOR cyan][B]TV[/COLOR]ISIA[/B] Wizard - Reinigung - Pflege - Update - Tools</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <source>https://www.github.com/tvisia/plugin.program.tvisia/</source>
