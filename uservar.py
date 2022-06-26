@@ -80,7 +80,7 @@ HIDECONTACT = 'No'
 CONTACT = 'Danke dass du dich für TVISIA entschieden hast.\n\nGithub unter http://www.github.com/tvisia/plugin.program.tvisia/'
 # Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON = os.path.join(ART, 'qricon.png')
-CONTACTFANART = 'http://'
+CONTACTFANART = 'https://visia.gq/tvisiaimg/header.png'
 #########################################################
 
 #########################################################
@@ -111,12 +111,12 @@ ENABLE = 'Yes'
 # Url to notification file
 NOTIFICATION = 'https://visia.gq/txt/notify.txt'
 # Use either 'Text' or 'Image'
-HEADERTYPE = 'Text'
+HEADERTYPE = 'Image'
 # Font size of header
 FONTHEADER = 'Font14'
 HEADERMESSAGE = '[COLOR cyan][B]TV[/COLOR]ISIA[/B] Wizard'
 # url to image if using Image 424x180
-HEADERIMAGE = 'https://visia.gq/tvisiaimg/header.txt'
+HEADERIMAGE = 'https://visia.gq/tvisiaimg/header.png'
 # Font for Notification Window
 FONTSETTINGS = 'Font13'
 # Background for Notification Window
