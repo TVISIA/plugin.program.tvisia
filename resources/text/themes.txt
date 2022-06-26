@@ -1,5 +1,9 @@
-name="Example Theme"
-url="url.to.theme"
-icon="http://"
-fanart="http://"
-description="A short description of the theme."
+name="Aeon-Nox-SiLVO Theme"
+url="https://github.com/mikesilvo164/Aeon-Nox-SiLVO/archive/refs/heads/master.zip"
+icon="https://github.com/mikesilvo164/Aeon-Nox-SiLVO/blob/master/resources/icon.jpg"
+fanart="https://github.com/mikesilvo164/Aeon-Nox-SiLVO/blob/master/resources/fanart.jpg"
+description="Dies ist ein Redesign, das versucht, Aeon mit den sauberen Designs moderner GUIs auf Augenhöhe zu bringen, während es als Aeon Nox erkennbar bleibt,
+daher weiß ich, dass viele Dinge fehlen und / oder sich von 4.xx unterscheiden, um eine Ressource zu erstellen freundliche und benutzerfreundliche GUI, nicht alles aus v4 konnte zu v5 hinzugefügt werden. Ich musste Entscheidungen treffen, was aufgenommen werden sollte und was nicht, und ich tat dies auf der Grundlage der Ansichten / Optionen / Funktionen, die ich selbst verwende.
+Das bedeutet, dass die Entscheidung getroffen werden musste, Optionen und redundante Ansichten aus der Skin zu entfernen. Wenn Sie also Ihre bevorzugte Ansicht / Option oder Funktionalität vermissen, müssen Sie einen Mod erstellen, um diese zurückzubringen.
+Sie werden einige Elemente des Touch-Skin-Droiden sehen, den ich hierher zurückgebracht habe.
+"
