@@ -98,9 +98,9 @@ AUTOINSTALL = 'Yes'
 # Addon ID for the repository
 REPOID = 'repository.tvisia'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://raw.githubusercontent.com/tvisia/repository.tvisia/master/zips/addons.xml'
+REPOADDONXML = 'https://raw.githubusercontent.com/tvisia/repository.tvisia/master/repo/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://raw.githubusercontent.com/tvisia/repository.tvisia/master/zips/repository.tvisia/'
+REPOZIPURL = 'https://raw.githubusercontent.com/tvisia/repository.tvisia/master/repo/repository.tvisia/'
 #########################################################
 
 #########################################################
