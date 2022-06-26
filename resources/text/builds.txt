@@ -14,7 +14,7 @@ fanart="http://"
 preview="https://www.youtube.com/watch?v=djV11Xbc914"
 adult="no"
 info="url.to.info"
-description="A short description of the build."
+description="KODI Box Media Center. all-in-one "
 
 name="Example Build 2"
 version="1.0"
