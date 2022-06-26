@@ -17,19 +17,19 @@ ADDONTITLE = '[COLOR cyan][B]TV[/COLOR]ISIA[/B] Wizard'
 BUILDERNAME = 'TVISIA'
 EXCLUDES = [ADDON_ID, 'repository.tvisia']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://visia.gq/txt/builds.txt'
+BUILDFILE = 'http://visia.gq/txt/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
 # Text File with apk info in it.  Leave as 'http://' to ignore
-APKFILE = 'https://visia.gq/txt/apks.txt'
+APKFILE = 'http://visia.gq/txt/apks.txt'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
 YOUTUBETITLE = 'TVISIA'
-YOUTUBEFILE = 'https://visia.gq/txt/youtube.txt'
+YOUTUBEFILE = 'http://visia.gq/txt/youtube.txt'
 # Text File for addon installer.  Leave as 'http://' to ignore
-ADDONFILE = 'https://visia.gq/txt/themes.txt'
+ADDONFILE = 'http://visia.gq/txt/themes.txt'
 # Text File for advanced settings.  Leave as 'http://' to ignore
-ADVANCEDFILE = 'https://visia.gq/txt/advanced.json'
+ADVANCEDFILE = 'http://visia.gq/txt/advanced.json'
 #########################################################
 
 #########################################################
@@ -80,7 +80,7 @@ HIDECONTACT = 'No'
 CONTACT = 'Danke dass du dich für TVISIA entschieden hast.\n\nGithub unter http://www.github.com/tvisia/plugin.program.tvisia/'
 # Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON = os.path.join(ART, 'qricon.png')
-CONTACTFANART = 'https://visia.gq/tvisiaimg/header.png'
+CONTACTFANART = 'http://visia.gq/tvisiaimg/header.png'
 #########################################################
 
 #########################################################
@@ -109,14 +109,14 @@ REPOZIPURL = 'https://raw.githubusercontent.com/tvisia/repository.tvisia/master/
 # Enable Notification screen Yes or No
 ENABLE = 'Yes'
 # Url to notification file
-NOTIFICATION = 'https://visia.gq/txt/notify.txt'
+NOTIFICATION = 'http://visia.gq/txt/notify.txt'
 # Use either 'Text' or 'Image'
 HEADERTYPE = 'Image'
 # Font size of header
 FONTHEADER = 'Font14'
 HEADERMESSAGE = '[COLOR cyan][B]TV[/COLOR]ISIA[/B] Wizard'
 # url to image if using Image 424x180
-HEADERIMAGE = 'https://visia.gq/tvisiaimg/header.png'
+HEADERIMAGE = 'http://visia.gq/tvisiaimg/header.png'
 # Font for Notification Window
 FONTSETTINGS = 'Font13'
 # Background for Notification Window
