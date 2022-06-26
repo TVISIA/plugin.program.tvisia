@@ -80,7 +80,7 @@ HIDECONTACT = 'No'
 CONTACT = 'Danke dass du dich für TVISIA entschieden hast.\n\nGithub unter http://www.github.com/tvisia/plugin.program.tvisia/'
 # Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON = os.path.join(ART, 'qricon.png')
-CONTACTFANART = 'http://visia.gq/tvisiaimg/header.png'
+CONTACTFANART = 'http://'
 #########################################################
 
 #########################################################
