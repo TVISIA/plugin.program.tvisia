@@ -1,10 +1,10 @@
-name="Example APK"
+name="KODIBox Leia"
 section="no"
-url="url.to.apk"
+url="https://www.dropbox.com/s/diegnb9nmls09xe/KODIBox_18.7.apk?dl=1"
 icon="http://"
 fanart="http://"
 adult="no"
-description="A short description of the APK."
+description="KODIBox 18.7 Leia Mediacenter"
 
 name="Example Section"
 section="yes"
