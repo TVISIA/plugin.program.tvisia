@@ -13,21 +13,21 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR limegreen][B]Open[/B][/COLOR]Wizard'
+ADDONTITLE = '[COLOR babyblue][B]Open[/B][/COLOR]Wizard'
 BUILDERNAME = 'OpenWizard'
 EXCLUDES = [ADDON_ID, 'repository.openwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'http://'
+BUILDFILE = 'https://raw.githubusercontent.com/TVISIA/tvisia.github.io/main/txt/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
 # Text File with apk info in it.  Leave as 'http://' to ignore
-APKFILE = 'http://'
+APKFILE = 'https://raw.githubusercontent.com/TVISIA/tvisia.github.io/main/txt/apks.txt'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
 YOUTUBETITLE = ''
-YOUTUBEFILE = 'http://'
+YOUTUBEFILE = 'https://raw.githubusercontent.com/tveecf/tveecf.github.io/main/setup/txt/youtube.txt'
 # Text File for addon installer.  Leave as 'http://' to ignore
-ADDONFILE = 'http://'
+ADDONFILE = 'https://github.com/tveecf/tveecf.github.io/raw/main/setup/data/addons.json'
 # Text File for advanced settings.  Leave as 'http://' to ignore
 ADVANCEDFILE = 'http://'
 #########################################################
@@ -56,12 +56,12 @@ ICONSETTINGS = os.path.join(ART, 'settings.png')
 # Hide the section separators 'Yes' or 'No'
 HIDESPACERS = 'No'
 # Character used in separator
-SPACER = '='
+SPACER = '-'
 
 # You can edit these however you want, just make sure that you have a %s in each of the
 # THEME's so it grabs the text from the menu item
-COLOR1 = 'limegreen'
-COLOR2 = 'white'
+COLOR1 = 'deepskyblue'
+COLOR2 = 'babyblue'
 # Primary menu items   / {0} is the menu item and is required
 THEME1 = u'[COLOR {color1}][I]([COLOR {color1}][B]Open[/B][/COLOR][COLOR {color2}]Wizard[COLOR {color1}])[/I][/COLOR] [COLOR {color2}]{{}}[/COLOR]'.format(color1=COLOR1, color2=COLOR2)
 # Build Names          / {0} is the menu item and is required
